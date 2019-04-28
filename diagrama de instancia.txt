@@ -1,0 +1,48 @@
+Pessoa_Hospede:
+pessoa_id: 45
+nome: Maruan Oliveira
+cpf: 0191309781
+
+Hospede
+hospede_id: 2
+data_nascimento: 19/05/1991
+email: maruanoliveira@gmail.com
+
+Pessoa_Funcionario:
+pessoa_id: 12
+nome: Francisco Oliveira
+cpf: 91829919820
+
+Funcionario:
+funcionario_id: 12
+matricula: 180057685
+salario: 10000.00
+horario: 12:00 18:00
+
+Fatura
+fatura_id: 140
+total: 100.00
+hospede_id: 2
+funcionario_id: 12
+data_fatura: 05/05/2019
+
+Diaria
+diaria_id: 130
+valor: 70.00
+vencimento: 05/05/2019
+entrada: 02/05/2019
+
+Quarto
+quarto_id: 56
+capacidade: 2
+numero_quarto: 13
+
+Servicos:
+servico_id: 2
+nome: Café da Manha Tipo 1
+valor: 20.00
+
+Servicos: 
+servico_id: 3
+nome: Almoco Tipo 2
+valor: 10.00
